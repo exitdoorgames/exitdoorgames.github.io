@@ -47,7 +47,7 @@ address:
   - line: Los Angeles, CA
 
 # Credits content
-credits: 'Connect players through journeys of discovery and imagination.'
+credits: 'Connecting players through journeys of discovery and imagination.'
 
 # Build settings
 markdown: kramdown

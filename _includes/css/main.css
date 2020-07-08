@@ -249,19 +249,19 @@ section.success {
     }
 }
 
-#portfolio .portfolio-item {
+.portfolio-item {
     right: 0;
-    margin: 0 0 15px;
+    margin: auto;
 }
 
-#portfolio .portfolio-item .portfolio-link {
+.portfolio-item .portfolio-link {
     display: block;
     position: relative;
     margin: 0 auto;
-    max-width: 400px;
+    max-width: 200px;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption {
+.portfolio-item .portfolio-link .caption {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -272,11 +272,11 @@ section.success {
     transition: all ease .5s;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption:hover {
+.portfolio-item .portfolio-link .caption:hover {
     opacity: 1;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption .caption-content {
+.portfolio-item .portfolio-link .caption .caption-content {
     position: absolute;
     top: 50%;
     width: 100%;
@@ -287,21 +287,22 @@ section.success {
     color: #fff;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption .caption-content i {
+.portfolio-item .portfolio-link .caption .caption-content i {
     margin-top: -12px;
 }
 
-#portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
-#portfolio .portfolio-item .portfolio-link .caption .caption-content h4 {
+.portfolio .portfolio-item .portfolio-link .caption .caption-content h3,
+.portfolio-item .portfolio-link .caption .caption-content h4 {
     margin: 0;
 }
 
-#portfolio * {
+#games *,
+#riddles * {
     z-index: 2;
 }
 
 @media(min-width:767px) {
-    #portfolio .portfolio-item {
+    .portfolio-item {
         margin: 0 0 30px;
     }
 }
@@ -317,6 +318,7 @@ section.success {
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 49%;
       max-width: 49%;
+      margin: auto;
     }
   }
   @media (min-width: 960px) {
