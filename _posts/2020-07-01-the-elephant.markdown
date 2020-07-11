@@ -3,9 +3,9 @@ layout: default
 modal-id: 1
 date: 2020-07-01
 img: elephant.png
+img-detail: elephant-detail.png
 alt: The Elephant
-project-date: April 2014
 client: Exit Door Games
 category: games
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Explore an elephant-shaped building and the surrounding gardens while solving puzzles inspired by the poem <a href="https://en.wikisource.org/wiki/The_poems_of_John_Godfrey_Saxe/The_Blind_Men_and_the_Elephant">"The Blind Men and the Elephant"</a>.<br><br>Coming Fall 2020! Sign up for <a href="https://www.tinyletter.com/exitdoorgames">the newsletter </a> to be notified! <a href="https://www.tinyletter.com/exitdoorgames"><i class="fa fa-paper-plane"></i></a>
 ---
