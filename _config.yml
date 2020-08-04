@@ -34,13 +34,13 @@ color:
 footer:
   copyright: Exit Door Games
   location: Location
-  social: Social
+  social: Developer Blog
   credits: Mission
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/exitdoorgames
+  - title: code
+    url: https://blog.exitdoorgames.com
 
 # Postal address (add as many lines as necessary)
 address:
