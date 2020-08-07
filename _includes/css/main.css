@@ -259,6 +259,19 @@ section.success {
     position: relative;
     margin: 0 auto;
     max-width: 200px;
+
+}
+
+#games .portfolio-item img {
+    padding: 15px;
+    border: 2px solid #{{ site.color.secondary-dark }};
+    border-radius: 25px;
+}
+
+#riddles .portfolio-item img {
+    padding: 15px;
+    border: 2px solid white;
+    border-radius: 25px;
 }
 
 .portfolio-item .portfolio-link .caption {
@@ -270,6 +283,7 @@ section.success {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
+    border-radius: 25px;
 }
 
 .portfolio-item .portfolio-link .caption:hover {
